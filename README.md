@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mcp-mirror-tizee-mcp-server-ietf-badge.png)](https://mseep.ai/app/mcp-mirror-tizee-mcp-server-ietf)
+
 # MCP-Server-IETF
 
 A Model Context Protocol server for fetching IETF documents (RFCs) for Large Language Models.
